@@ -20,3 +20,9 @@ I make interesting things messy. :joy:
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
 </p>
+
+### statistics
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=rassi0429&row=1&no-bg=true&no-frame=true&theme=darkhub" />
+</div>
+
