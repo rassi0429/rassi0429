@@ -24,7 +24,7 @@ I make interesting things messy. :joy:
 ---
 
 ### statistics
-<div align="center">
+<div align="">
    <img src="https://github-profile-trophy.vercel.app/?username=rassi0429&row=1&no-bg=true&no-frame=true&theme=darkhub" />">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rassi0429&theme=github_dark" />
 </div>
