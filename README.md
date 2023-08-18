@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/5ZScZAHC6MQAAAAC/kokoa_waiwai.gif" width="200">
   <div id="badges">
-    <a href="https://twitter.com/ciel_vr">
+    <a href="https://twitter.com/ciel_vr" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
