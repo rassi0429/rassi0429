@@ -5,7 +5,7 @@
     <a href="https://twitter.com/ciel_vr" target="_blank">
       <img src="https://img.shields.io/badge/Twitter(X)-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
-    <a href="https://misskey.neos.love/@kokoa" target="_blank">
+    <a href="https://misskey.resonite.love/@kokoa_" target="_blank">
       <img src="https://img.shields.io/badge/Misskey-A1CA03?style=for-the-badge&logo=misskey&logoColor=white" alt="Misskey Badge"/>
     </a>
   </div>
