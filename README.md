@@ -12,8 +12,7 @@
 </div>
 
 ### About Me <img src="https://media.tenor.com/5ZScZAHC6MQAAAAC/kokoa_waiwai.gif" width="25"> 
-Every day I mass produce garbage code.  
-Already 23 years old and no job. haha. Wanted a job. :joy:
+Every day I mass produce garbage code. Wanted a job. :joy:
 
 ---
 
